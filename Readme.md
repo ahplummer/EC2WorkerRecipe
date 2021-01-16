@@ -1,4 +1,4 @@
-# Instructions for Lightsail
+# Instructions for EC2 Recipe
 
 
 ## Configure keys
